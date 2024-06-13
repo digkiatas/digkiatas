@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi I am @digkiatas and welcome to my Github profile 👋
+
+* Theoretical physicist interested in data science/analysis, machine learning, mathematics and new technologies!
+
+Feel free to connect with me 🙂
 
 <!--
 **digkiatas/digkiatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
